@@ -1,0 +1,15 @@
+{
+  "name": "NickLinsky-nginx",
+  "version": "0.1.0",
+  "author": "NickLinsky",
+  "summary": "nginx module for Puppet",
+  "license": "Apache-2.0",
+  "source": "https://github.com/NickLinsky/puppet-nginx3.git",
+  "project_page": "https://github.com/NickLinsky/puppet-nginx3",
+  "issues_url": "https://github.com/NickLinsky/puppet-nginx3/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
